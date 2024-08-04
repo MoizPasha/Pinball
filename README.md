@@ -1,2 +1,1 @@
-# Pinball Controller Unity
- Basic Pinball game with working physics and controls.
+Basic Pinball game with working physics and controls.
