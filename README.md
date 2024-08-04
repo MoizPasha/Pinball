@@ -1,2 +1,2 @@
-#Unity
-Basic Pinball game with working physics and controls.
+-Made with Unity
+-Basic Pinball game with working physics and controls.
